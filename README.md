@@ -22,27 +22,7 @@
 ### 🛠 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,figma,git,html,js,linux,mongodb,mysql,nodejs,react,tailwind,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,figma,git,js,python,php,linux,mongodb,mysql,nodejs,laravel,react,tailwind,ts" />
 </p>
 
 ---
-
-### 📊 GitHub Stats (optional but 🔥)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-</p>
-
----
-
-### 🚀 Top Technologies I Use
-
-```text
-Frontend     ▓▓▓▓▓▓▓▓▓▓░░░   85%
-UI/UX        ▓▓▓▓▓▓▓▓▓░░░░   80%
-TypeScript   ▓▓▓▓▓▓▓░░░░░░   65%
-Backend      ▓▓▓▓▓░░░░░░░░   50%
