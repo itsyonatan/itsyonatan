@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yonatan</h1>
+<img width="1307" height="282" alt="image" src="https://github.com/user-attachments/assets/f2d9a438-f544-4422-ae25-fc75970d06f9" /><h1 align="center">Hi 👋, I'm Yonatan</h1>
 <h3 align="center">A passionate software developer</h3>
 
 ---
@@ -22,7 +22,14 @@
 ### 🛠 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,figma,git,js,python,php,linux,mongodb,mysql,nodejs,laravel,react,tailwind,ts" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,python,flutter,nodejs,nestjs,laravel,mongodb,mysql,git,linux,nginx,figma" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ---
