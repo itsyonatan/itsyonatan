@@ -1,5 +1,5 @@
-<img width="1307" height="282" alt="image" src="https://github.com/user-attachments/assets/f2d9a438-f544-4422-ae25-fc75970d06f9" /><h1 align="center">Hi 👋, I'm Yonatan</h1>
-<h3 align="center">A passionate software developer</h3>
+<h1 align="center">Hello 👋, I'm Yonatan</h1>
+<h3 align="center">software developer</h3>
 
 ---
 
